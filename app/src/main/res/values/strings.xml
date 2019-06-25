@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mycalcPranav</string>
+    <string name="operator_prompt"> Choose an operator</string>
+    <string-array name="operator_array">
+        <item> Select an operator </item>
+        <item>Addition " + " </item>
+        <item>Subtraction " - " </item>
+        <item>Multiply " * "  </item>
+        <item>Division " / "</item>
+    </string-array>
+
+</resources>
